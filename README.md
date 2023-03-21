@@ -36,4 +36,4 @@ https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201
 https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?keywords=pragmatic+programmer+20th&qid=1660232119&s=books&sprefix=Pragmatic+Pro%2Cstripbooks%2C112&sr=1-1
 
 
-![image](https://user-images.githubusercontent.com/23271026/226676617-1a282d82-4fac-47af-8aed-e2772b60ee68.png)
+
